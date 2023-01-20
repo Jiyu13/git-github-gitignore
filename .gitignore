@@ -56,3 +56,6 @@ secrets.*
 
 # ignore CSV files in the data/ folder
 data/*.csv
+
+# do not ignore log.txt
+!log.txt
