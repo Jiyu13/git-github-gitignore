@@ -46,3 +46,6 @@ jspm_packages
 
 # credential files
 secrets.yml
+
+# credential files
+secrets.*
