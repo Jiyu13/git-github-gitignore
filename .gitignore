@@ -49,3 +49,10 @@ secrets.yml
 
 # credential files
 secrets.*
+
+
+# ignore all CSV files
+*.csv
+
+# ignore CSV files in the data/ folder
+data/*.csv
